@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository presents the key files and final results of a binary neutron star (BNS) simulation project based on **Einstein Toolkit** and **Lorene**. The project was completed as part of a numerical relativity selection task, with emphasis on simulation setup, waveform extraction, visualization, and result organization.
+This repository presents the key files and final results of a binary neutron star (BNS) simulation project based on **Einstein Toolkit** and **Lorene**. The project was completed as part of a numerical relativity selection task, with emphasis on simulation setup, waveform extraction, visualization and result organization.
 
 The repository includes:
 
